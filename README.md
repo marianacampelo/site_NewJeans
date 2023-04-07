@@ -1,1 +1,1 @@
-# https://marianacampello.io/site_NewJeans
+# https://marianacampello.github.io/site_NewJeans/
