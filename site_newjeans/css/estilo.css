@@ -1,0 +1,18 @@
+header{
+    background-color: cornflowerblue;
+}
+
+.banner{
+    width: 100%;
+}
+
+.conteiner{
+    width: 80%;
+    background-color: antiquewhite;
+    margin: auto;
+}
+
+footer{
+    background-color: blanchedalmond;
+    width: 100%;
+}
